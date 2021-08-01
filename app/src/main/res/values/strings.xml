@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="noMusicText">Music not found</string>
+</resources>
